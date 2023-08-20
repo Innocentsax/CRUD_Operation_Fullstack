@@ -68,3 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<!-- git remote add origin https://github.com/Innocentsax/CRUD_Operation_Fullstack.git
+git branch -M main
+git push -u origin main
+
+CRUD_Operation_Fullstack 
+This Repo contain all files for this project. Frontend with REACT, Backend with JAVA and Database (MySQL)
+https://github.com/Innocentsax/CRUD_Operation_Fullstack.git>
